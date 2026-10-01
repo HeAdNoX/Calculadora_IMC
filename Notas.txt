@@ -1,0 +1,15 @@
+Adicionar links para sites com dicas
+de auto cuidado;
+----
+Adicionar imagens de para ref;
+----
+Adcionar efeito nos botões;
+----
+Organizar o CSS, como "Estilos, fontes, etc...";
+----
+Criar pasta para as imagens;
+----
+Upload para o Github;   <----- POR ÚLTIMO----->
+----
+Histórias, baseamos este site nestas histórias...;
+----

@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-family: "bebas neue";
+}
+
+body {
+  background-color: hwb(125 28% 7%);
+}
+
+#titulo {
+  text-align: center;
+  margin: 50px 0;
+  color: white;
+  font-family: "bebas neue";
+  font-size: 50px;
+  
+}
+
+#calculadora {
+  background-color: hwb(126 60% 2%);
+  border-radius: 15px;
+  text-align: center;
+  padding: 30px;
+  margin: 0 50px;
+  
+}
+
+.input {
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  width: 200px;
+  height: 40px;
+  border-radius: 10px;
+  padding-left: 10px;
+  outline: none;
+  transition: 0.3s;
+}
+
+.input:focus {
+  border-color: hwb(125 28% 7%);
+  transform: scale(1.05);
+}
+
+#botao {
+  border: none;
+  width: 150px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: hwb(125 28% 7%);
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#botao:hover {
+  transform: scale(1.05);
+}
+
+#line {
+  border: 1px solid hwb(125 28% 7%);
+  margin: 20px auto;
+  width: 80%;
+}
+
+#resultado {
+  margin-top: 20px;
+  font-weight: bold;
+}
+#imagem {
+  display: block;
+  margin: 0 auto;
+  height: 150px;
+  width: auto;
+}
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  gap: 5px;
+}
+
+#conteudo{
+  margin-top: 15px;
+  background-color: white;
+  border-radius: 30px;
+}
